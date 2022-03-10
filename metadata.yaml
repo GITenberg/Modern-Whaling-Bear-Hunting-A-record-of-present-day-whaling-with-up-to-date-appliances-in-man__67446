@@ -1,5 +1,8 @@
 _repo: Modern-Whaling-Bear-Hunting-A-record-of-present-day-whaling-with-up-to-date-appliances-in-man__67446
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67446-h/images/cover.jpg
 creator:
   author:
     agent_name: Burn Murdoch, W. G. (William Gordon)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25518
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Burn_Murdoch
 description: '"With 110 illustrations chiefly from drawings & photographs by the author"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67446#Modern-Whaling-Bear-Hunting-A-record-of-present-day-whaling-with-up-to-date-appliances-in-man_
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67446'
